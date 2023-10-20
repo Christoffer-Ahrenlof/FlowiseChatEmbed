@@ -8,13 +8,13 @@
     --chatbot-container-bg-color: transparent;
     --chatbot-container-font-family: 'Open Sans';
   
-    --chatbot-button-bg-color: #0042da;
+    --chatbot-button-bg-color: #00c4dacc;
     --chatbot-button-color: #ffffff;
   
     --chatbot-host-bubble-bg-color: #f7f8ff;
     --chatbot-host-bubble-color: #303235;
   
-    --chatbot-guest-bubble-bg-color: #3B81F6;
+    --chatbot-guest-bubble-bg-color: #00c4dacc;
     --chatbot-guest-bubble-color: #ffffff;
   
     --chatbot-input-bg-color: #ffffff;
@@ -213,13 +213,13 @@
   }
   
   .ping span {
-    background-color: #0042da;
+    background-color: #00c4dacc;
   }
   
   .rating-icon-container svg {
     width: 42px;
     height: 42px;
-    stroke: #0042da;
+    stroke: #00c4dacc;
     fill: #f7f8ff;
     transition: fill 100ms ease-out;
   }
@@ -237,12 +237,12 @@
   }
   
   .upload-progress-bar {
-    background-color: #0042da;
+    background-color: #00c4dacc;
     border-radius: var(--chatbot-border-radius);
   }
   
   .total-files-indicator {
-    background-color: #0042da;
+    background-color: #00c4dacc;
     color: var(--chatbot-button-color);
     font-size: 10px;
   }
@@ -252,7 +252,7 @@
   }
   
   .chatbot-upload-input.dragging-over {
-    border-color: #0042da;
+    border-color: #00c4dacc;
   }
   
   .secondary-button {
